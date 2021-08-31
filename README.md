@@ -14,9 +14,12 @@
 * AC MILAN supporter........  
 
 ## About this GitHub account
-Started 2020 - course DT162G Javascriptbaserad Webbutveckling.  Updated 2021 - course DT173G Webbutveckling III.
+Started 2020 - course DT162G Javascriptbaserad Webbutveckling.  
 
-###_And hopefully I'm getting better!_
+Updated 2021 - course DT173G Webbutveckling III.
+
+
+_And hopefully I'm getting better!_
 
 
 ## How to reach me?
