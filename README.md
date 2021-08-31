@@ -14,12 +14,10 @@
 * AC MILAN supporter........  
 
 ## About this GitHub account
-Started 2020 - course DT162G Javascriptbaserad Webbutveckling.  Updated 2021 - course DT173G Webbutveckling III.  
-_And hopefully I'm getting better!_
+Started 2020 - course DT162G Javascriptbaserad Webbutveckling.  Updated 2021 - course DT173G Webbutveckling III.  _And hopefully I'm getting better!_
 
 
 ## How to reach me?
 
 **E-mail:** frla1901@student.miun.se or frida.lazzari@gmail.com  
-**Phone:** +46(0)739 972731
 
