@@ -4,7 +4,7 @@
 * web development student at [Mittuniversitetet](https://www.miun.se) 
 * graduating in June 2022 from program TWEUG - please see image below for a better view of my studies! 
 * very long work history but in short I'm customer and project focused
-* 2021 - starting up my new business - web development with focus on making it simple for smaller business owners!
+* 2021 - starting up my new business - Project management & web development with focus on making it simple for smaller business owners!
 
 ## About me - private....
 * mother of 4 daughters:
@@ -21,7 +21,7 @@
 >
 >Updated it 2021 - during the university course DT173G Web development 3.
 >
->_And hopefully I'm getting better!_
+>_Always learning more!_
 
 ## My studies / courses
 
