@@ -5,6 +5,7 @@
 * graduating in June 2022 from program TWEUG - please see image below for a better view of my studies! 
 * very long work history but in short I'm customer and project focused
 * 2021 - starting up my new business - Project management & web development with focus on making it simple for smaller business owners!
+* my newly started gitHub account [IDDACounsulting](https://github.com/iddaconsulting)
 
 ## About me - private....
 * mother of 4 daughters:
